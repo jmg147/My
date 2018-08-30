@@ -12,6 +12,7 @@
 <script type="text/javascript" charset="UTF-8" src="${pageContext.request.contextPath }/js/jquery.js"></script>
 <script type="text/javascript" charset="UTF-8" src="${pageContext.request.contextPath }/js/jquery.dataTables.js"></script>
 <script type="text/javascript" charset="UTF-8" src="${pageContext.request.contextPath }/js/dataTables.bootstrap.js"></script>
+<!-- datatebl 在线样式设置 生成的CSS 文件  -->
 <link rel="stylesheet" type="text/css" href="${pageContext.request.contextPath }/css/chushi.css">
 
 <!-- 生成Escel引入文件  -->
@@ -29,7 +30,7 @@
 	}
 </style>
 
-
+<!-- 导入的datatable_test.js文件  -->
 <script type="text/javascript" charset='UTF-8' src="${pageContext.request.contextPath }/js2/tabledata.js"></script>
 </head>
 <body>
